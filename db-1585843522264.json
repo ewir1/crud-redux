@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "Ecommerce React",
+      "precio": "800",
+      "id": 6
+    },
+    {
+      "nombre": "Laptop Core i7",
+      "precio": 1880,
+      "id": 9
+    },
+    {
+      "nombre": "Ecommerce",
+      "precio": 200,
+      "id": 10
+    }
+  ]
+}
